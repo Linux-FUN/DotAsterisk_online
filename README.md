@@ -5,7 +5,6 @@
 ひとりで作業が寂しい人、やろうと思っても集中できない人で集まって作業しましょう。
 
 毎週金曜日 20:00 - 22:00
-（この時間にやらなくてもよし）
 
 Gitter: https://gitter.im/Linux-FUN/DotAsterisk_online
 
