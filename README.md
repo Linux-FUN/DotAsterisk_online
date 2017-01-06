@@ -19,6 +19,8 @@ Gitter: https://gitter.im/Linux-FUN/DotAsterisk_online
 - やったことをissueに書く
 - お疲れ様でした！
 
+## Skype 参加
+Skype 通話に参加したい方は、SkypeID: yuki.nakata_1998 にコンタクトを送り、ドットアスタリスクチームに入れてもらってください。
 
 # 内容
 
